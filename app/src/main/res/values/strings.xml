@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AsyncResponse</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_fire_missiles">Message</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">Signin</string>
+    <string name="msg_display">Message Dummy.</string>
+    <string name="please_wait">Please wait.</string>
+    <string name="title_activity_page2">Page2Activity</string>
+</resources>
