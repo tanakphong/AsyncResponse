@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\e2c709d9548d40323d138d0780ff82c046fdfeca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_8c9fddc28947724ef5c03406d2e212504daf8fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\30e62dd9e32ab93e412c834afad92a0c944e2988\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_adae53e742f3e5ed65b3b7fd9dd729b931de6612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\7c352cbc0f7595ac82c2e65fa931eaed313a28f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_ed0ca7ea70859d99c7e04f9ea52ec6e8460da3da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\30d3fc3a69cdec81fe25c848a377b290a3fb40ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_be876798e82c3886a8c6b5f2b4d1569ee0c8fa7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\ee2be1e980e60c050d83151a540da6ae8c0aa459\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_3f752fd8352276a66b0a016edfe14e9a4679e703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\a7aba5482f5382672fa84888d6535dd95a2cd457\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_9a99c762ef9b140b8282c55cd7dfb10d0943b0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_bebcbf81eaec749f2509bc2870ca2b155adea4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\e0df19f588d7da5acb035a2c4635796ee842f092\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_f20da7ebdea5c25b6a006440dc53ab6eb75a4a50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_0cff6043bbef956e89d94e686965acb020c541dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\d8f759e5e8f2f28f5a2afaff100223a6e3980634\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_5e7778802e58a7145ee362714f8bf9d1f220beaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\8550ff0fd29ac30ce14693859c96429c02ddb9b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_0c8083556344891c12404b970d69b93129fbe4e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\effe7aa272b1cecec18a43804969a0d83ebd4011\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_43dcb6dceafcef4c610aee93aa5366bb4579bf2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\563e4a8406a868ba018a2285c045551fd8c31eac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_c2aaafbd147e1c6816f4539ea93d0ee59fd65013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\f09a4989a6d49fcf9095ead8fe4affdae59f2517\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_d1cfd2c962be08af9deb3fdcb7517700b380b187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER275\.android\build-cache\2c6dd2e98542f3e0f3442960fb0206f06e5ef2c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\#NineNeung\03.CodeScript\material-dialogs-master\AsyncResponse\app\build\intermediates\pre-dexed\debug\classes_d198790e1dc07e2c54694eac6e57453a314256cd.jar" />
+    </item>
+
+</items>
